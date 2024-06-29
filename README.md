@@ -23,11 +23,6 @@ PacketSniffer is a simple Python-based packet sniffing tool designed for network
     cd PacketSniffer
     ```
 
-2. Install required packages (if any):
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the PacketSniffer:
