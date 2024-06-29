@@ -19,7 +19,7 @@ PacketSniffer is a simple Python-based packet sniffing tool designed for network
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/PacketSniffer.git
+    git clone https://github.com/drewmayberry11/Network_Packet_Sniffer.git
     cd PacketSniffer
     ```
 
