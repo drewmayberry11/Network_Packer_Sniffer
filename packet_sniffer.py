@@ -4,7 +4,8 @@
 """
 Author: Drew Mayberry
 Date: June 28, 2024
-Description: This program is a Python packet sniffer that captures and displays Ethernet, IP, TCP, UDP, and ICMP packet headers and data. It logs each captured packet to a timestamped file in the 'logs' directory.
+Description: This program is a Python packet sniffer that captures and displays Ethernet, IP, TCP, UDP, and ICMP packet headers and data. It logs each captured packet to 
+a timestamped file in the 'logs' directory.
 Version: 1.0
 """
 
